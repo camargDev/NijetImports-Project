@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-hidden="true" focusable="false">
+  <g transform="rotate(0 570 465)">
+    <defs>
+      <radialGradient id="pf10" cx=".3" cy=".25" r="1.1"><stop offset="0" stop-color="#9ec1ff"/><stop offset=".7" stop-color="#2c3d86"/><stop offset="1" stop-color="#0b1220"/></radialGradient>
+    </defs>
+    <ellipse cx="570" cy="832" rx="170" ry="20" fill="#0b1220" opacity=".16"/>
+    <rect x="400" y="120" width="340" height="690" rx="58" fill="#14161c"/>
+    <rect x="403" y="123" width="334" height="684" rx="55" fill="none" stroke="rgba(255,255,255,.35)" stroke-width="2"/>
+    <rect x="412" y="132" width="316" height="666" rx="47" fill="url(#pf10)"/>
+    <rect x="526" y="148" width="88" height="26" rx="13" fill="#05060a"/>
+    <path d="M460 520.2 C 520 409.8, 600 603, 700 478.8" stroke="rgba(255,255,255,.22)" stroke-width="3" fill="none"/>
+    <rect x="518" y="776" width="104" height="5" rx="2.5" fill="rgba(255,255,255,.7)"/>
+  </g>
+  <circle cx="790" cy="250" r="58" fill="#1d4ed8"/>
+  <path d="M765.64 252 l16.240000000000002 17.4 l32.480000000000004 -35.96" stroke="#fff" stroke-width="9.28" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="330" cy="560" r="44" fill="#1d4ed8"/>
+  <path d="M311.52 562 l12.32 13.2 l24.64 -27.28" stroke="#fff" stroke-width="7.04" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-hidden="true" focusable="false">
+  <g transform="rotate(5 420 385)">
+    <defs>
+      <linearGradient id="pb5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5f9c8a"/><stop offset="1" stop-color="#1f4a3f"/></linearGradient>
+      <linearGradient id="pb5g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".34"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    </defs>
+    <ellipse cx="420" cy="712" rx="150" ry="20" fill="#0b1220" opacity=".16"/>
+    <rect x="270" y="80" width="300" height="610" rx="58" fill="url(#pb5)"/>
+    <rect x="270" y="80" width="300" height="610" rx="58" fill="url(#pb5g)"/>
+    <rect x="272" y="82" width="296" height="606" rx="56" fill="none" stroke="rgba(255,255,255,.42)" stroke-width="3"/>
+    <circle cx="420" cy="176" r="66" fill="rgba(0,0,0,.3)" stroke="rgba(255,255,255,.3)" stroke-width="2"/>
+       
+    <circle cx="420" cy="176" r="44" fill="#0b0d12"/>
+    <circle cx="420" cy="176" r="34.32" fill="#232833"/>
+    <circle cx="420" cy="176" r="20.240000000000002" fill="#0b0d12"/>
+    <circle cx="411.2" cy="166.32" r="6.16" fill="#8fa3c9" opacity=".7"/>
+       <circle cx="490" cy="120" r="8" fill="#f3e9c9" opacity=".9"/>
+  </g></svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-hidden="true" focusable="false">
+  <g transform="rotate(7 630 415)">
+    <defs>
+      <linearGradient id="pb8" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d5a92"/><stop offset="1" stop-color="#2b2340"/></linearGradient>
+      <linearGradient id="pb8g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".34"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    </defs>
+    <ellipse cx="630" cy="762" rx="160" ry="20" fill="#0b1220" opacity=".16"/>
+    <rect x="470" y="90" width="320" height="650" rx="58" fill="url(#pb8)"/>
+    <rect x="470" y="90" width="320" height="650" rx="58" fill="url(#pb8g)"/>
+    <rect x="472" y="92" width="316" height="646" rx="56" fill="none" stroke="rgba(255,255,255,.42)" stroke-width="3"/>
+    <rect x="496" y="116" width="138" height="138" rx="38" fill="rgba(0,0,0,.28)" stroke="rgba(255,255,255,.28)"/>
+       
+    <circle cx="540" cy="160" r="24" fill="#0b0d12"/>
+    <circle cx="540" cy="160" r="18.72" fill="#232833"/>
+    <circle cx="540" cy="160" r="11.040000000000001" fill="#0b0d12"/>
+    <circle cx="535.2" cy="154.72" r="3.3600000000000003" fill="#8fa3c9" opacity=".7"/>
+    <circle cx="540" cy="212" r="24" fill="#0b0d12"/>
+    <circle cx="540" cy="212" r="18.72" fill="#232833"/>
+    <circle cx="540" cy="212" r="11.040000000000001" fill="#0b0d12"/>
+    <circle cx="535.2" cy="206.72" r="3.3600000000000003" fill="#8fa3c9" opacity=".7"/>
+    <circle cx="592" cy="186" r="24" fill="#0b0d12"/>
+    <circle cx="592" cy="186" r="18.72" fill="#232833"/>
+    <circle cx="592" cy="186" r="11.040000000000001" fill="#0b0d12"/>
+    <circle cx="587.2" cy="180.72" r="3.3600000000000003" fill="#8fa3c9" opacity=".7"/>
+       <circle cx="608" cy="142" r="7" fill="#f3e9c9" opacity=".9"/>
+  </g>
+  <g transform="rotate(-9 390 475)">
+    <defs>
+      <radialGradient id="pf9" cx=".3" cy=".25" r="1.1"><stop offset="0" stop-color="#6aa0ff"/><stop offset=".7" stop-color="#3a2f7a"/><stop offset="1" stop-color="#0b1220"/></radialGradient>
+    </defs>
+    <ellipse cx="390" cy="822" rx="160" ry="20" fill="#0b1220" opacity=".16"/>
+    <rect x="230" y="150" width="320" height="650" rx="58" fill="#14161c"/>
+    <rect x="233" y="153" width="314" height="644" rx="55" fill="none" stroke="rgba(255,255,255,.35)" stroke-width="2"/>
+    <rect x="242" y="162" width="296" height="626" rx="47" fill="url(#pf9)"/>
+    <rect x="346" y="178" width="88" height="26" rx="13" fill="#05060a"/>
+    <path d="M290 527 C 350 423, 430 605, 510 488" stroke="rgba(255,255,255,.22)" stroke-width="3" fill="none"/>
+    <rect x="338" y="766" width="104" height="5" rx="2.5" fill="rgba(255,255,255,.7)"/>
+  </g></svg>

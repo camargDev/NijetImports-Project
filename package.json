@@ -1,0 +1,12 @@
+{
+  "name": "nijet-imports",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Site institucional e vitrine da Nijet Imports (HTML/CSS/JS puro, sem dependências).",
+  "scripts": {
+    "build": "node build.mjs && node scripts/render-images.cjs",
+    "start": "node server/server.mjs",
+    "audit": "node scripts/audit.cjs"
+  }
+}
