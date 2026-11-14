@@ -5,7 +5,7 @@
 .section-head h2 { margin: 0; }
 .note { margin-top: 1.5rem; }
 
-.hero { padding-block: clamp(32px, 6vw, 80px) clamp(24px, 4vw, 56px); background: linear-gradient(180deg, #fff 0, var(--bg-soft) 100%); overflow: clip; }
+.hero { padding-block: clamp(32px, 6vw, 80px) clamp(24px, 4vw, 56px); background: linear-gradient(180deg, var(--bg) 0, var(--bg-soft) 100%); overflow: clip; }
 .hero-grid { display: grid; gap: 2rem; align-items: center; }
 .hero-text h1 { max-width: 12ch; }
 .hero-media img { width: 100%; height: auto; filter: drop-shadow(0 30px 40px rgba(11, 18, 32, .14)); }
@@ -21,7 +21,7 @@
 .feature:nth-of-type(even) { background: var(--bg-soft); }
 .feature-grid { display: grid; gap: 2rem; align-items: center; }
 .feature-media { margin: 0; border-radius: var(--radius); background: var(--bg-soft); overflow: hidden; }
-.feature:nth-of-type(even) .feature-media { background: #fff; }
+.feature:nth-of-type(even) .feature-media { background: var(--bg); }
 .feature-media img { width: 100%; height: auto; }
 @media (min-width: 860px) {
   .feature-grid { grid-template-columns: 1fr 1fr; gap: clamp(32px, 6vw, 96px); }
@@ -40,7 +40,7 @@
 
 .product-detail { padding-block: 1rem clamp(56px, 8vw, 112px); }
 .detail-grid { display: grid; gap: 2rem; align-items: start; }
-.detail-media { margin: 0; background: radial-gradient(circle at 50% 40%, #fff 0, #eceef3 80%); border-radius: var(--radius); padding: clamp(12px, 3vw, 40px) clamp(12px, 3vw, 40px) 1rem; text-align: center; }
+.detail-media { margin: 0; background: radial-gradient(circle at 50% 40%, var(--media-1) 0, var(--media-2) 80%); border-radius: var(--radius); padding: clamp(12px, 3vw, 40px) clamp(12px, 3vw, 40px) 1rem; text-align: center; }
 .detail-media img { width: 100%; max-width: 560px; margin-inline: auto; }
 .detail-price { font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; }
 .spec { margin: 0 0 1rem; border-top: 1px solid var(--line); }
@@ -58,7 +58,7 @@
 .prose h2 { font-size: 1.5rem; margin: 2.25rem 0 .75rem; letter-spacing: -.02em; }
 .prose ul, .prose ol { padding-left: 1.3rem; margin-bottom: 1rem; display: grid; gap: .4rem; }
 .prose .plain { padding-left: 0; }
-.draft-note { background: var(--pending-bg); color: var(--pending-ink); border: 1px dashed #b08400; border-radius: var(--radius-sm); padding: .9rem 1.1rem; font-size: .95rem; }
+.draft-note { background: var(--pending-bg); color: var(--pending-ink); border: 1px dashed var(--pending-line); border-radius: var(--radius-sm); padding: .9rem 1.1rem; font-size: .95rem; }
 
 /* Rodapé */
 .site-footer { background: var(--bg-soft); padding-block: 56px 32px; margin-top: 48px; font-size: .97rem; }
@@ -69,7 +69,7 @@
 .site-footer nav a:hover, .site-footer address a:hover { text-decoration: underline; }
 .footer-blurb { margin: 1rem 0; color: var(--ink-2); max-width: 32ch; }
 .social { display: flex; flex-wrap: wrap; gap: .5rem; }
-.social-link { display: inline-flex; align-items: center; gap: .5rem; min-height: 44px; padding: 0 1rem; border: 1.5px solid var(--line); border-radius: var(--radius-pill); background: #fff; color: var(--ink); text-decoration: none; }
+.social-link { display: inline-flex; align-items: center; gap: .5rem; min-height: 44px; padding: 0 1rem; border: 1.5px solid var(--line); border-radius: var(--radius-pill); background: var(--surface); color: var(--ink); text-decoration: none; }
 .site-footer .social-link { min-height: 44px; }
 .social-link:hover { border-color: var(--ink); }
 .footer-bottom { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--line); display: grid; gap: .5rem; }
